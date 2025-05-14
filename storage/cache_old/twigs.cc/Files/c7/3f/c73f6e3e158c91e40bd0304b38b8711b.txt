@@ -1,0 +1,1 @@
+a:6:{s:1:"k";s:17:"adminchartpayment";s:1:"d";a:1:{i:0;a:3:{s:5:"count";i:6;s:7:"newdate";s:7:"2025-01";s:3:"sum";d:162.479999999999989768184605054557323455810546875;}}s:1:"g";a:0:{}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2025-01-19 15:40:22.893625";s:13:"timezone_type";i:3;s:8:"timezone";s:11:"Asia/Riyadh";}s:1:"m";N;s:1:"c";N;}
